@@ -10,10 +10,11 @@ header-img: "img/green.jpg"
 ### Director of Original Report
 NGOCN 07/2014-08/2016 Guangdong, China
 [NGOCN](www.ngocn.net) is an independent media focusing on civil society and grassroots NGOs in China.
+
 Supervised the production of the daily online publication.
--Crafted content strategies and ideas in coordination with other editorial staff.
--Responsible for selection, content and placement of all reports and photos, plus editing, translating and rewriting.
--Managed organizations WeChat and Facebook accounts, Grew subscribers from 0 to 60,000 in 6 month.
+>Crafted content strategies and ideas in coordination with other editorial staff.
+>Responsible for selection, content and placement of all reports and photos, plus editing, translating and rewriting.
+>Managed organizations WeChat and Facebook accounts, Grew subscribers from 0 to 60,000 in 6 month.
 **8 editorial works won Peking University Anping Public communication award, 2015**
 ### Media Communication Trainer/ Facilitator 
 **China Rainbow Media Awards Workshop** 
@@ -40,9 +41,8 @@ leadership training programme focused on non-violent activism, spiritual practic
 04/2015, V-Bus, China
 skills and techniques of conference design, conference facilitation and participatory decision making.
 
-## Skills and Languages
--Skilled in managing social media: Facebook, Twitter, Weibo,Wechat; 
--Proficient in MS Office and STATA
+## Skills and LanguagesSkilled in managing social media: Facebook, Twitter, Weibo,Wechat; 
+-Proficient in MS Office and STAT>
 -English: C2
 -French: A2
 -Chinese (Mandarin): Native 
