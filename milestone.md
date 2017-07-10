@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "My selections"
+description: "my selections"
 header-img: "img/zhihu.jpg"
 ---
 
