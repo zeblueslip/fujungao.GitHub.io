@@ -4,7 +4,7 @@ This is an experimental blog, for recording and sharing what I see, learn and th
 
 I have not thought of a suitable name, so it is just **A BLOG**.
 
-I am currently studying Sciences Po, major in Human rights. I have a number of interest, which I will share about in this Blog, including:
+I am currently studying in Sciences Po, majoring in Human rights. I have a number of interest, which I will share in this Blog, including:
 
   - Social movements and civil society in Aisa,
   - Human rights,
