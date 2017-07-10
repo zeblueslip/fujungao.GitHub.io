@@ -1,14 +1,6 @@
 
---
-layout: post
-title: How this work
-date: 2017-07-11
-categories: blog
-tags: [notice]
-description: Why I creat this blog?
---
 
-This is an experimental blog, for recording and sharing what I have learned, see and hear. 
+This is an experimental blog, for recording and sharing what I see, learn and think. 
 
 I have not thought of a suitable name, so it is just **A BLOG**.
 
