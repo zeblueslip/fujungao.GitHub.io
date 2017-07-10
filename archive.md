@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "archive"
+title: "Archive"
 description: "What you see is what you get"
 header-img: "img/orange.jpg"
 ---
