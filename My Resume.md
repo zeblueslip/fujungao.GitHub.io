@@ -71,19 +71,15 @@ Skills and techniques of conference design, conference facilitation and particip
 
 ## Skills and Languages ##
 
--Skilled in managing social media: Facebook, Twitter, Weibo,Wechat; 
-
--Proficient in MS Office and STATA
-
--English: C2
-
--French: A2
-
--Chinese (Mandarin): Native 
+*  Skilled in managing social media: Facebook, Twitter, Weibo,Wechat; 
+*  Proficient in MS Office and STATA
+*  English: C2
+*  French: A2
+*  Chinese (Mandarin): Native 
 
 -Cantonese: Native
 
-**Contact me:**
+## Contact me ##
 
 [fujun.gao@sciencespo.fr](mailto:fujun.gao@sciencespo.fr)
 
