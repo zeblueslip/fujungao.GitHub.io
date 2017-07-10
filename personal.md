@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "personal"
-description: "my footprints "
+title: "Personal"
+description: "My footprints "
 header-img: "img/facebook.jpg"
 ---
