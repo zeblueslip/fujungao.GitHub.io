@@ -16,11 +16,8 @@ NGOCN 07/2014-08/2016 Guangdong, China
 
 Supervised the production of the daily online publication.
 *  Crafted content strategies and ideas in coordination with other editorial staff.
-
--Responsible for selection, content and placement of all reports and photos, plus editing, translating and rewriting.
-
--Managed organizations WeChat and Facebook accounts, Grew subscribers from 0 to 60,000 in 6 month.
-
+*  Responsible for selection, content and placement of all reports and photos, plus editing, translating and rewriting.
+*  Managed organizations WeChat and Facebook accounts, Grew subscribers from 0 to 60,000 in 6 month.
 **8 editorial works won Peking University Anping Public communication award, 2015**
 
 <center>
