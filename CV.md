@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My CV"
+title: "CV"
 description: "2017-07-11 updated "
 header-img: "img/green.jpg"
 ---
@@ -18,6 +18,7 @@ Supervised the production of the daily online publication.
 *  Crafted content strategies and ideas in coordination with other editorial staff.
 *  Responsible for selection, content and placement of all reports and photos, plus editing, translating and rewriting.
 *  Managed organizations WeChat and Facebook accounts, Grew subscribers from 0 to 60,000 in 6 month.
+
 **8 editorial works won Peking University Anping Public communication award, 2015**
 
 <center>
@@ -57,13 +58,13 @@ Courses: International human rights laws, International humanitarian laws, The R
 
 ## Training ##
 
-**[Buddhist Education for Social Transformation](http://womenforpeaceandjustice.org/courses-we-offer/best/)**
+### [Buddhist Education for Social Transformation](http://womenforpeaceandjustice.org/courses-we-offer/best/)###
 
 07/2015-06/2016, International Women’s Partnership for Peace and Justice, Thailand 
 
 leadership training programme focused on non-violent activism, spiritual practice, and anti- oppression feminism.
 
-**T·A·F Conference facilitate Workshop workshop**
+### T·A·F Conference facilitate Workshop ###
 
 04/2015, V-Bus, China
 
@@ -76,8 +77,7 @@ Skills and techniques of conference design, conference facilitation and particip
 *  English: C2
 *  French: A2
 *  Chinese (Mandarin): Native 
-
--Cantonese: Native
+*  Cantonese: Native
 
 ## Contact me ##
 
