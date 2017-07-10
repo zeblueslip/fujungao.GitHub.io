@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "My Resume-Update 2017-07-11"
-description: "My Resume "
+title: "My CV"
+description: "2017-07-11 updated "
 header-img: "img/green.jpg"
 ---
 
