@@ -17,8 +17,9 @@ NGOCN 07/2014-08/2016 Guangdong, China
 Supervised the production of the daily online publication.
 *  Crafted content strategies and ideas in coordination with other editorial staff.
 *  Responsible for selection, content and placement of all reports and photos, plus editing, translating and rewriting.
-*  Managed organizations WeChat and Facebook accounts, Grew subscribers from 0 to 60,000 in 6 month.
+*  Managed organizations WeChat and Facebook accounts
 
+**Grew subscribers from 0 to 60,000 in 6 month.**
 **8 editorial works won Peking University Anping Public communication award, 2015**
 
 <center>
@@ -36,7 +37,7 @@ Conducted Social media advocacy training for grassroots LGBT NGOs.
 
 **East China Grassroots NGOs capacity building Training**
 
-01/2016 HeFei, China-OXFAM HK 
+01/2016 HeFei, China-AnHui YiHe commonweal service center
 
 Conducted Social media advocacy training for grassroots Disability Rights NGOs.
 
@@ -45,6 +46,8 @@ Conducted Social media advocacy training for grassroots Disability Rights NGOs.
 ### Sciences Po 08/2016-07/2018, Paris, France ### 
 
 **M.A-Human rights and Humanitarian actions**
+
+With Bourse du Gouvernement Français.
 
 Concentrations: China and East Asian Study, Emerging Economies.
 
@@ -70,9 +73,15 @@ leadership training programme focused on non-violent activism, spiritual practic
 
 Skills and techniques of conference design, conference facilitation and participatory decision making.
 
+### Migrants community Social service capacity building ###
+
+09/2014，Guangzhou Institute For Civil Society (GICS), China
+
+Migrants community service theory and technology, organizational communication and resource mobilization.
+
 ## Skills and Languages ##
 
-*  Skilled in managing social media: Facebook, Twitter, Weibo,Wechat; 
+*  Skilled in managing social media: Facebook, Twitter, Weibo,Wechat
 *  Proficient in MS Office and STATA
 *  English: C2
 *  French: A2
