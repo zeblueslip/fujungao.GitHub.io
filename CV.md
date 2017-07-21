@@ -63,7 +63,7 @@ Courses: International human rights laws, International humanitarian laws, The R
 
 ## Training ##
 
-### [Buddhist Education for Social Transformation](http://womenforpeaceandjustice.org/courses-we-offer/best/)###
+### [Buddhist Education for Social Transformation](http://womenforpeaceandjustice.org/courses-we-offer/best/)
 
 07/2015-06/2016, International Women’s Partnership for Peace and Justice, Thailand 
 
