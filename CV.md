@@ -100,7 +100,7 @@ Migrants community service theory and technology, organizational communication a
 <center>
     <p><img src="https://ws1.sinaimg.cn/large/69879559gy1fhs4sfz629j22yo1z4u0x.jpg" align="center"></p>
 </center>
-Hosting the tenth anniversary Party of NGOCN, Dec 2015
+<center>Dec 2015, Hosting the tenth anniversary party of NGOCN with more than 100 participants. </center>
 
 
 
