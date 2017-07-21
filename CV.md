@@ -98,8 +98,9 @@ Migrants community service theory and technology, organizational communication a
 
 
 <center>
-    <p><img src="https://img3.doubanio.com/view/photo/large/public/p2453384035.jpg" align="center"></p>
+    <p><img src="https://ws1.sinaimg.cn/large/69879559gy1fhs4sfz629j22yo1z4u0x.jpg" align="center"></p>
 </center>
+Hosting the tenth anniversary Party of NGOCN, Dec 2015
 
 
 
