@@ -33,6 +33,8 @@ Supervised the production of the daily online publication.
 
 04/2016 HangZhou, China-Beijing GENDER 
 
+Serve as a judge at The 5th ["China Rainbow Media Award"](http://news.163.com/16/0119/16/BDN4M2IQ00012QEA.html).
+
 Conducted Social media advocacy training for grassroots LGBT NGOs.
 
 **East China Grassroots NGOs capacity building Training**
