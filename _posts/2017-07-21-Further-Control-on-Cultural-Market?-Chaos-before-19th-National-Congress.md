@@ -6,7 +6,7 @@ The oppression of freedom of expression is nothing new here. However, It used to
 
 This time, the enhancing controlling on the cultural market seems different. It marks the deepening of intrusion into personal lives, and further underminds the privacy right and property rights. Another different thing might be the resentful feedback it raises. Many social media accounts in Weibo were canceled or banned because of criticizing those policies, despite the fact that there is no real action yet.
 
- "when it comes to the nation, there is no (foreign) idol", How about "when it comes to the nation, there is no self-choice entertainment"?
+ "When it comes to the nation, there is no (foreign) idol" was accepted, how about "when it comes to the nation, there is no self-choice entertainment"? Is this possible for this generation?
  
 To be honest, this new series of policies makes me confused. They don't show much consistency with the previous strategies, namely separation and atomization. It almost looks like testing the bottom lines and preparing for some further moves after 19th Nation Congress.
 
@@ -19,7 +19,7 @@ This also makes me think of the what Prof. PEI Minxin said in [a recent intervie
 > PEI Minxin: In the study, we often underestimated not only the power of the regime, but the Chinese people in such an environment to create so much wealth.
 > This is actually the misunderstanding of Western theory, although theoretically aware of the plight and difficulty of collective action, but often did not fully understand the tolerance of the authoritarian system.
 
-Could this become (part of) the final straw? It doesn't look like this way. But I think this is an important puzzle in China's last-round chaos. I talked to my ex-colleagues and friends in China, their opinions could be representative and might show some insights. And I will try to write them down later.
+And the influences of these policies confuse me too. Could this become (part of) the final straw? It doesn't look like this way. But I think this is an important puzzle in China's last-round chaos. I talked to my ex-colleagues and friends in China about these, their opinions could be representative and might show some insights. And I will try to write them down later.
 
 
 ### How People Within the System Think?
