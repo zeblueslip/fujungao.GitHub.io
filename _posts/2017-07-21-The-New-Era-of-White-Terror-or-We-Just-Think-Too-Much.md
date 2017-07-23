@@ -21,7 +21,7 @@ This also makes me think of the what Prof. PEI Minxin said in [a recent intervie
 > PEI Minxin: In the study, we often underestimated not only the power of the regime, but the Chinese people in such an environment to create so much wealth.
 > This is actually the misunderstanding of Western theory, although theoretically aware of the plight and difficulty of collective action, but often did not fully understand the tolerance of the authoritarian system.
 
-Could this become (part of) the final straw? It doesn't look like this way. But I think this is an important puzzle in China's last-round chaos. I talked to my ex-colleagues and friends in China, their opinions could be representative and might show some insights. And I will try to write them done later.
+Could this become (part of) the final straw? It doesn't look like this way. But I think this is an important puzzle in China's last-round chaos. I talked to my ex-colleagues and friends in China, their opinions could be representative and might show some insights. And I will try to write them later.
 
 
 ### How People Within the System Think?
