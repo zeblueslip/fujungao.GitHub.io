@@ -1,4 +1,4 @@
-# Further Control in Cultural Market? Chaos before 19th National Congress
+# Further Control on Cultural Market? Chaos before 19th National Congress
 
 From 2012 onwards, China's political environment tightened quickly. From the control of civil society to the further suppression of human rights defenders, the turn of the Chinese political atmosphere has become a fact that everyone knows.
 
