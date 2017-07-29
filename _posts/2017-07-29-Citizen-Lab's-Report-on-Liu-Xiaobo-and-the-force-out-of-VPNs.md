@@ -35,6 +35,8 @@ Cybersecurity Law was passed in last years National People's Congress. But it se
 
 The history of internet censorship started from 1994, my colleagues did [a very good brief picture](http://chinadigitaltimes.net/chinese/2017/06/ngocn-%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E8%A7%84%E5%AE%9E%E6%96%BD-%E4%B8%80%E8%B5%B7%E5%9B%9E%E9%A1%BE%E8%BF%87%E5%8E%BB23%E5%B9%B4%E7%9A%84404%E5%8F%B2/) about it.
 How to evaluate its performance? Liu Xiaobo's woeful story could explain something. The night when he passed away, I was hanging out with 3 friends, who have access to internet since 90s, but not regularly
-using VPN to avoid censorship. None of them know Liu Xiaobo. One mentioned that she saw this name from the posts I share in Wechat,
+using VPN to avoid censorship. None of them knew Liu Xiaobo. One mentioned that she saw this name from the posts I share in Wechat,
 but she never successful opened it, they were deleted so fast.
+In that sad night, I told them a sad story, and this story will only be largely hidden in heart.
+
 
