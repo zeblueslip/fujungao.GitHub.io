@@ -5,10 +5,10 @@ The earliest news came out around 9 pm (GMT), When my Wechat and Weibo were floo
 poets and music with profound meaning. 
 
 By the next day, some related Posts in Wechat could be seen for seconds, then disappeared. It's not 
-hard to feel that the censorship technique is keeping pace with the resisting tricks, and the former wins again and again.
+hard to feel that the censorship technique is keeping pace with the resistant tricks, and the former wins again and again.
 
 [The Citizen Lab published a report concerning this](https://citizenlab.ca/2017/07/analyzing-censorship-of-the-death-of-liu-xiaobo-on-wechat-and-weibo/) on 16th July. I am quite impressed by the fast responding. In this report, it compares
-the scope of censorship before and after Liu's death. It also dicovers some up-dated censor thecnique in Wechat and Weibo.
+the scope of censorship before and after Liu's death. It also dicovers some up-dated censored measures in Wechat and Weibo.
 It's quite worth reading.
 
 Their key findings:
