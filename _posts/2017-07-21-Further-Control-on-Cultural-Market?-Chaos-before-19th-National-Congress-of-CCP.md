@@ -1,3 +1,10 @@
+---
+layout: post
+date: 2017-07-21
+title: Further Control on Cultural Market? Chaos before 19th National Congress of CCP
+---
+
+
 From 2012 onwards, China's political environment tightened quickly. From the control of civil society to the further suppression of human rights defenders, the turn of the Chinese political atmosphere has become a fact that everyone knows.
 
 However, the progress of this year is surprising. Strict control has spread in a more visible way. I spent some time for the vacation in China in June and July 2017. The first news I received after getting off the plane was the elimination of hundreds entertainment social media accounts. These medias had accumulated huge amounts of readers and attracted million dollars of VC funds. Before long, SARFT（广电总局） issued a red head file, asked for a suspension of  all costume drama, idol drama and other highly entertaining TV series during the 19th National Congress of CCP, idol drama and other highly entertaining TV series, and recommended the "generals" "sharp attack" and other revolutionary, military theme dramas for this period. Then, by the middle of July, European/American (or Western) and Japanese film and television works were deleted from animation video sites, although some of them were legally introduced and copyrighted. Right after I leave China, It is reported that in Beijing and Guangzhou metros, police checks passengers mobile phone by [invasive tools]() , passengers will be taken away once found the video and documents of terrorist attacks in their phone.
