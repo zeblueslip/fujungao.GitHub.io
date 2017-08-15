@@ -8,7 +8,7 @@ I have been quite busy these days: Have my family visited in Paris; Working on 3
 
 The most recent and time-consuming project is building a blog/website for censored reports of my previous organization. It requires a lot of coordination and I need to learn a lot of new things related to IT, which is fun and exciting. I will link that blog/website here when it finishes.
 
-I have to confess that I didn’t read much since August, except several papers about Union democracy in the US, which are required by my reading webinar and I guess I would have something to say about them after the serious webinars finish. The best article I have seen recently is A New Torture by Eva Pils, Published in [China Policy Institute: Analysis])(https://cpianalysis.org/2017/08/10/a-new-torture-in-china/amp/) last week.
+I have to confess that I didn’t read much since August, except several papers about Union democracy in the US, which are required by my reading webinar and I guess I would have something to say about them after the serious webinars finish. The best article I have seen recently is A New Torture by Eva Pils, Published in [China Policy Institute: Analysis](https://cpianalysis.org/2017/08/10/a-new-torture-in-china/amp/) last week.
 
 Eva Pils is a professor in King’s College in London, I have tried to interview her in German-China civil society, She is very friendly and helpful. I admire her most of her book on [Wei-Quan lawyers in China](https://www.amazon.com/Chinas-Human-Rights-Lawyers-Resistance/dp/0415870844). 
 
