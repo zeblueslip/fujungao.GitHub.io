@@ -1,6 +1,6 @@
 # Site settings
-title: 'A Blog'
-description: 'Write More, Sleep Less'
+title: A BLOG
+description: "Fujun GAO| Thinking or Writing"  
 url: 'http://www.fujungao.info
 baseurl: '/'
 google_analytics: 'UA-105687507-1'
