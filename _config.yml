@@ -62,3 +62,8 @@ bing_verify:
 
 # Links to include in footer navigation
 
+JB :
+  analytics :
+    provider : google 
+    google : 
+    tracking_id : 'UA-105687507-1'
