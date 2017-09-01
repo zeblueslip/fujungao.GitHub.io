@@ -1,47 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width initial-scale=1" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta name="author" content="{{ site.author.name }}">
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{ site.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
-
-  <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:description" content="{{ site.description }}">
-
-  <link rel="apple-touch-icon" sizes="57x57" href="{{ "images/favicons/apple-touch-icon-57x57.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="60x60" href="{{ "images/favicons/apple-touch-icon-60x60.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="72x72" href="{{ "images/favicons/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="76x76" href="{{ "images/favicons/apple-touch-icon-76x76.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="114x114" href="{{ "images/favicons/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="120x120" href="{{ "images/favicons/apple-touch-icon-120x120.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="144x144" href="{{ "images/favicons/apple-touch-icon-144x144.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="152x152" href="{{ "images/favicons/apple-touch-icon-152x152.png" | prepend: site.baseurl }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/favicons/apple-touch-icon-180x180.png" | prepend: site.baseurl }}">
-  <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32">
-  <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-194x194.png" | prepend: site.baseurl }}" sizes="194x194">
-  <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-96x96.png" | prepend: site.baseurl }}" sizes="96x96">
-  <link rel="icon" type="image/png" href="{{ "images/favicons/android-chrome-192x192.png" | prepend: site.baseurl }}" sizes="192x192">
-  <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-16x16.png" | prepend: site.baseurl }}" sizes="16x16">
-  <link rel="manifest" href="{{ "images/favicons/manifest.json" | prepend: site.baseurl }}">
-  <link rel="shortcut icon" href="{{ "images/favicons/favicon.ico" | prepend: site.baseurl }}">
-  <meta name="msapplication-TileColor" content="#ffc40d">
-  <meta name="msapplication-TileImage" content="{{ "images/favicons/mstile-144x144.png" | prepend: site.baseurl }}">
-  <meta name="theme-color" content="#ffffff">
-
-  <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}feed.xml">
+  <meta name="Author" content="{{ site.author.name }}">
+  <meta name="Description" content="{{ site.description }}">
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1504.83">
+  <style type="text/css">
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 15.0px; font: 14.0px '.AppleSystemUIFont'; color: #24292e; -webkit-text-stroke: #24292e}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 15.0px; font: 14.0px '.AppleSystemUIFont'; color: #24292e; min-height: 17.0px}
+    span.s1 {-webkit-text-stroke: 0px #000000}
+    span.s2 {font-kerning: none}
+    span.s3 {font: 14.0px '.PingFang SC'; font-kerning: none}
+    span.s4 {font: 14.0px 'Helvetica Neue'; font-kerning: none}
+    ul.ul1 {list-style-type: none}
+  </style>
 </head>
-
+<body>
+<ul class="ul1">
+  <li class="li1"><span class="s1"></span><span class="s2">&lt;head&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta charset="utf-8"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="viewport" content="width=device-width initial-scale=1" /&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta http-equip="X-UA-Compatible" content="IE=edge"&gt;</span></li>
+  <li class="li2"></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;title&gt;{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}&lt;/title&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="description" content="{{ site.description }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="author" content="{{ site.author.name }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="HandheldFriendly" content="True"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="MobileOptimized" content="320"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="viewport" content="width=device-width</span><span class="s3">,</span><span class="s2"> initial-scale=1</span><span class="s3">,</span><span class="s2"> maximum-scale=1"&gt;</span></li>
+  <li class="li2"></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="twitter:card" content="summary"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="twitter:title" content="{{ site.title }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="twitter:description" content="{{ site.description }}"&gt;</span></li>
+  <li class="li2"></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta property="og:type" content="article"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta property="og:title" content="{{ site.title }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta property="og:description" content="{{ site.description }}"&gt;</span></li>
+  <li class="li2"></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="57x57" href="{{ "images/favicons/th.jpeg</span><span class="s4">"</span><span class="s2"> | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="60x60" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="72x72" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="76x76" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="114x114" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="120x120" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="144x144" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="152x152" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="apple-touch-icon" sizes="180x180" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="icon" type="image/png" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}" sizes="32x32"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="icon" type="image/png" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}" sizes="194x194"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="icon" type="image/png" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}" sizes="96x96"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="icon" type="image/png" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}" sizes="192x192"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="icon" type="image/png" href="{{ "images/favicons/</span><span class="s4">th.jpeg</span><span class="s2">" | prepend: site.baseurl }}" sizes="16x16"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="manifest" href="{{ "images/favicons/manifest.json" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="shortcut icon" href="{{ "images/favicons/favicon.ico" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="msapplication-TileColor" content="#ffc40d"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="msapplication-TileImage" content="{{ "images/favicons/mstile-144x144.png" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;meta name="theme-color" content="#ffffff"&gt;</span></li>
+  <li class="li2"></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="canonical" href="{{ page.url | replace:'index.html'</span><span class="s3">,</span><span class="s2">'' | prepend: site.baseurl | prepend: site.url }}"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2"><span class="Apple-converted-space">  </span>&lt;link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}feed.xml"&gt;</span></li>
+  <li class="li1"><span class="s1"></span><span class="s2">&lt;/head&gt;</span></li>
+</ul>
+</body>
+</html>
