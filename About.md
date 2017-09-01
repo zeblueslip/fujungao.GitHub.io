@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CV"
+title: “About”
 description: "2017-08-30 updated "
 header-img: "img/green.jpg"
 ---
