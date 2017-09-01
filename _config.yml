@@ -1,61 +1,40 @@
 # Site settings
-title: A BLOG
-header-img: "img/LuciolaCruciata.jpg"
-tagline: "cn"  
-description: "Fujun GAO| Thinking or Writing"  
-baseurl: ""
-url: "http://fujungao.info"  
-google_analytics: 'UA-87437901-1'
+title: A Blog
+description: 'Write More, Sleep Less’
+url: 'http://www.fujungao.info
+baseurl: '/'
+google_analytics: 'UA-105687507-1'
+#disqus_shortname: 
+duoshuo_shortname: 
 
-# About/contact
-owner: 
-  name: " Fujun"
+author:
+  name: ‘Fujun’
   email: fujungao@gmail.com
-  bio: "Thinking or Writing"
+  twitter_username: 
+  facebook_username: 
+  github_username:  
+  linkedin_username:  
 
-# Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/th.jpeg
-
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 8
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
-
-# Defaults for posts
 defaults:
   -
-    scope: 
-      path: ""
-      type: "posts"
+    scope:
+      path: ''
+      type: 'posts'
     values:
-      layout: "post"
-      author: "Fujun"
-      header-img: "img/LuciolaCruciata.jpg" # We don't want posts without a header image, that whould mean white on white
+        layout: 'post'
 
-# Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : 
-  disqus :
-      short_name : 
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:month/:title/
+markdown: kramdown
+highlighter: rouge
 
-# Analytics and webmaster tools stuff goes here
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-google_analytics: UA-105687507-1
-
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in footer navigation
-
-
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
