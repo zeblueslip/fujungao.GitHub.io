@@ -1,9 +1,11 @@
 # Site settings
 title: A BLOG
+header-img: "img/LuciolaCruciata.jpg"
+tagline: "cn"  
 description: "Fujun GAO| Thinking or Writing"  
-url: 'http://www.fujungao.info
-baseurl: '/'
-google_analytics: 'UA-105687507-1'
+baseurl: ""
+url: "http://fujungao.info"  
+google_analytics: 'UA-87437901-1'
  
 
 author:
