@@ -10,6 +10,7 @@ header-img: "img/LuciolaCruciata.jpg"
 
 
 ![name]({{ site.baseurl }}/img/ngocn10.jpg)
+
 December 2015, Hosting the tenth anniversary party of NGOCN. 
 
 
@@ -29,9 +30,9 @@ Supervised the production of the daily online publication.
 **Grew subscribers from 0 to 60,000 in 6 month.**
 **8 editorial works won Peking University Anping Public communication award, 2015**
 
-<center>
-    <p><img src="http://photocdn.sohu.com/20151109/Img425702875.jpg" align="center"></p>
-</center>
+
+<p><img src="http://photocdn.sohu.com/20151109/Img425702875.jpg" align="center"></p>
+
 
 
 ### Media Communication Trainer/ Facilitator 
