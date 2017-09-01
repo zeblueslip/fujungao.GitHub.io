@@ -1,8 +1,8 @@
 # Site settings
-title: A BLOG
+title: Fujun’s Blog
 header-img: "img/LuciolaCruciata.jpg"
 tagline: "cn"  
-description: "Fujun GAO | Thinking or Writing"  
+description: “Petit à petit”  
 baseurl: ""
 url: "http://fujungao.info"  
 google_analytics: 'UA-87437901-1'
