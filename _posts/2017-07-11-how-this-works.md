@@ -1,4 +1,9 @@
-
+---
+title:  "How this works?”
+date:   2017-07-11 
+categories: [general]
+tags: [Jekyll,general]
+---
 
 This is an experimental blog, for recording and sharing what I see, learn and think. 
 
