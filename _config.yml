@@ -2,7 +2,7 @@
 title: A BLOG
 header-img: "img/LuciolaCruciata.jpg"
 tagline: "cn"  
-description: "Fujun GAO| Thinking or Writing"  
+description: "Fujun GAO | Thinking or Writing"  
 baseurl: ""
 url: "http://fujungao.info"  
 google_analytics: 'UA-87437901-1'
@@ -12,9 +12,9 @@ author:
   name: ‘Fujun’
   email: fujungao@gmail.com
   twitter_username: 
-  facebook_username: 
+  facebook_username: fujungao.gao
   github_username:  
-  linkedin_username:  
+  linkedin_username: fujun-gao-5b91987b 
 
 defaults:
   -
