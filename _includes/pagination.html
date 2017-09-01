@@ -1,33 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1504.83">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 12.0px Symbol; font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">&lt;nav class="pagination" role="navigation"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% if paginator.previous_page %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% if paginator.previous_page == 1 %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;a rel="prev" class="posts newer btn small" href="{{ "#blog" | prepend: site.baseurl }}" title="Previous Page"&gt;</span><span class="s2">←</span><span class="s1"> Newer Posts&lt;/a&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% else %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;a rel="prev" class="posts newer btn small" href="{{ site.baseurl }}page{{ paginator.previous_page }}/"&gt;</span><span class="s2">←</span><span class="s1"> Newer Posts&lt;/a&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{% endif %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% endif %}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;span class="pagination__page-number"&gt;Page {{ paginator.page}} of {{ paginator.total_pages}}&lt;/span&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% if paginator.next_page %}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;a rel="next" class="posts older btn small" href="{{ site.baseurl }}page{{ paginator.next_page }}/"&gt;Older Posts </span><span class="s2">→</span><span class="s1">&lt;/a&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% endif %}</span></p>
-<p class="p1"><span class="s1">&lt;/nav&gt;</span></p>
-</body>
-</html>
+<nav class="pagination" role="navigation">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a rel="prev" class="posts newer btn small" href="{{ "#blog" | prepend: site.baseurl }}" title="Previous Page">← Newer Posts</a>
+    {% else %}
+      <a rel="prev" class="posts newer btn small" href="{{ site.baseurl }}page{{ paginator.previous_page }}/">← Newer Posts</a>
+    {% endif %}
+  {% endif %}
+
+  <span class="pagination__page-number">Page {{ paginator.page}} of {{ paginator.total_pages}}</span>
+
+  {% if paginator.next_page %}
+    <a rel="next" class="posts older btn small" href="{{ site.baseurl }}page{{ paginator.next_page }}/">Older Posts →</a>
+  {% endif %}
+</nav>
