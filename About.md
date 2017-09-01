@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: "2017-08-30 updated "
-header-img: "img/green.jpg"
+header-img: "img/LuciolaCruciata.jpg"
 ---
 
 

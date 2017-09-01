@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "What you see is what you get"
-header-img: "img/orange.jpg"
+header-img: "img/LuciolaCruciata.jpg"
 ---
 
 

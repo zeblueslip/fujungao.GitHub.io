@@ -1,6 +1,6 @@
 # Site settings
 title: A BLOG
-header-img: "img/green.jpg"
+header-img: "img/LuciolaCruciata.jpg"
 tagline: "cn"  
 description: "Fujun GAO| Thinking or Writing"  
 baseurl: ""
@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.png
+favicon: img/th.jpeg
 
 douban_username:  
 twitter_username: 
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "Fujun"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/LuciolaCruciata.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
@@ -61,3 +61,14 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105687507-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-105687507-1');
+</script>
+
