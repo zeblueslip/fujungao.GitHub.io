@@ -8,10 +8,9 @@ header-img: "img/LuciolaCruciata.jpg"
 
 ### [Check my Linkedin](https://www.linkedin.com/in/fujun-gao-5b91987b/)
 
-<center>
-    <p><img src="https://ws1.sinaimg.cn/large/69879559gy1fhs4sfz629j22yo1z4u0x.jpg" align="center"></p>
-</center>
-<center>December 2015, Hosting the tenth anniversary party of NGOCN. </center>
+
+![name]({{ site.baseurl }}/img/ngocn10.jpg)
+December 2015, Hosting the tenth anniversary party of NGOCN. 
 
 
 ## Experience
@@ -44,6 +43,8 @@ Supervised the production of the daily online publication.
 Serve as a judge at The 5th ["China Rainbow Media Award"](http://news.163.com/16/0119/16/BDN4M2IQ00012QEA.html).
 
 Conducted Social media advocacy training for grassroots LGBT NGOs.
+
+![name]({{ site.baseurl }}/img/3.jpg)
 
 **East China Grassroots NGOs capacity building Training**
 
