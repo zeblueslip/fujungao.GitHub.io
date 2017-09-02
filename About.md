@@ -1,9 +1,5 @@
----
-layout: page
-title: About
-description: "2017-08-30 updated "
-header-img: "images/LuciolaCruciata.jpg"
----
+{% include head.html %} {% include sidebar.html %}
+{{ content }} 
 
 
 ### [Check my Linkedin](https://www.linkedin.com/in/fujun-gao-5b91987b/)
