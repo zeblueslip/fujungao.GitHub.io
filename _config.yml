@@ -1,5 +1,5 @@
 # Dependencies
-highlighter:      rouge
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            Fujun’s Blog
 tagline:          ‘Petit à petit’
-description:      ‘A Record of my thoughts on the world’
+description:      'A place to record my thoughts on social movements and civil society and internet censorship'
 url:              http://fujungao.info
 baseurl:          /
 
