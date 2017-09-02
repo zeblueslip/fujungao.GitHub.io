@@ -1,41 +1,26 @@
-# Site settings
-title: Fujun’s Blog
-header-img: "img/LuciolaCruciata.jpg"
-tagline: "cn"  
-description: “Petit à petit”  
-baseurl: ""
-url: "http://fujungao.info"  
-google_analytics: 'UA-87437901-1'
- 
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Fujun’s Blog
+tagline:          ‘Petit à petit’
+description:      'A place to record my thoughts on social movements and civil society and internet censorship'
+url:              http://fujungao.info
+baseurl:          /
 
 author:
-  name: ‘Fujun’
-  email: fujungao@gmail.com
-  twitter_username: 
-  facebook_username: fujungao.gao
-  github_username:  
-  linkedin_username: fujun-gao-5b91987b 
+  name:           ‘Fujun GAO’
+  url:            
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+paginate:         5
 
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:month/:title/
-markdown: kramdown
-highlighter: rouge
+# Custom vars
+version:          2.1.0
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+github:
+  repo:           
