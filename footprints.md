@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Personal"
+layout: default
+title: “Footprints”
 description: "My footprints "
-header-img: "img/LuciolaCruciata.jpg"
+header-img: "images/LuciolaCruciata.jpg"
 ---
 
 ## 2017
