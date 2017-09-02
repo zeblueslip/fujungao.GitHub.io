@@ -1,6 +1,7 @@
-{% include head.html %} {% include sidebar.html %}
-{{ content }} 
-
+---
+layout: page
+title: About
+---
 
 ### [Check my Linkedin](https://www.linkedin.com/in/fujun-gao-5b91987b/)
 
